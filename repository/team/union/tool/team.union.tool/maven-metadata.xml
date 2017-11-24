@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>team.union.tool</groupId>
+  <artifactId>team.union.tool</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20171124030247</lastUpdated>
+  </versioning>
+</metadata>
